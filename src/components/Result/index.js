@@ -26,7 +26,7 @@ export default function Result({data}) {
                     <p><strong>Origin: </strong>{data.strArea}</p>
                 </div>
                 <div className="igredients">
-                    <h2>Igredients</h2>
+                    <h2>Ingredients</h2>
                     <ul>
                         {separe().map(item=>(
                             <li>{item}</li>
