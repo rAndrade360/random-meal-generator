@@ -1,0 +1,56 @@
+
+.info{
+    display: flex;
+    flex-direction: row wrap;
+    justify-content: center;
+   
+    margin: 3% 4%;
+}
+.info aside{
+    min-width: 300px;
+    margin: 20px;
+}
+
+.info main{
+    text-align: justify;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+main p{
+    line-height: 25px;
+}
+
+.header img{
+    max-width: 100%;
+}
+.header p{
+    margin-top: 10px;
+}
+
+.igredients{
+    margin-top: 25px;
+}
+
+.igredients h2{
+    margin-bottom: 5px;
+}
+
+
+.youtube{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+
+.youtube h2{
+    margin-bottom: 20px;
+}
+
+
